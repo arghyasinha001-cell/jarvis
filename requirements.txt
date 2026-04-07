@@ -1,0 +1,12 @@
+google-generativeai
+edge-tts
+pygame
+SpeechRecognition
+pyaudio
+customtkinter
+pywhatkit
+pyautogui
+psutil
+keyboard
+playsound
+wikipedia

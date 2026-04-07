@@ -1,0 +1,37 @@
+# ── Credentials (NEVER commit) ────────────────────────────
+config.py
+
+# ── Runtime data ──────────────────────────────────────────
+memory.json
+history.log
+response.mp3
+*.png          # screenshots saved by Jarvis
+
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── PyInstaller output ────────────────────────────────────
+*.spec.bak
+Jarvis.exe
+
+# ── Virtual environments ───────────────────────────────────
+venv/
+env/
+.venv/
+
+# ── OS noise ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+jarvis.code-workspace

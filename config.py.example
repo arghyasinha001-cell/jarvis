@@ -1,0 +1,11 @@
+# ============================================================
+#  config.py  –  Jarvis AI Assistant – Local credentials
+# ============================================================
+#  1. Copy this file:   cp config.py.example config.py
+#  2. Fill in your own values below.
+#  3. config.py is .gitignored and will NEVER be committed.
+# ============================================================
+
+# ── Google Gemini API key ────────────────────────────────────
+# Get yours free at https://aistudio.google.com/app/apikey
+GEMINI_API_KEY = "AIzaSy-YOUR-KEY-HERE"
