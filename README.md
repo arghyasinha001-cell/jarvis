@@ -73,8 +73,8 @@ Jarvis/
 ### 2. Clone & install
 
 ```bash
-git clone https://github.com/your-username/Jarvis.git
-cd Jarvis
+git clone https://github.com/arghyasinha001-cell/jarvis.git
+cd jarvis
 
 python -m venv venv
 venv\Scripts\activate          # Windows
